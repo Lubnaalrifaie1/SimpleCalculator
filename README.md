@@ -4,11 +4,11 @@ Welcome to SimpleCalculator, a cutting-edge calculator app meticulously crafted 
 ## Key Features:
 Sleek Design: Experience the perfect blend of aesthetics and functionality with our modern and sleek design.
 
-## Dark Mode: Elevate your user experience with our immersive Dark Mode, providing a visually stunning interface while reducing eye strain in low-light environments.
+**Dark Mode:** Elevate your user experience with our immersive Dark Mode, providing a visually stunning interface while reducing eye strain in low-light environments.
 
-## Responsive and Intuitive: Whether you're on a desktop, tablet, or smartphone, SimpleCalculator adapts seamlessly. The intuitive layout ensures a smooth and user-friendly experience.
+**Responsive and Intuitive:** Whether you're on a desktop, tablet, or smartphone, SimpleCalculator adapts seamlessly. The intuitive layout ensures a smooth and user-friendly experience.
 
-## Fast and Precise: Powered by JavaScript, our calculator delivers swift and precise calculations, making every computation a breeze.
+**Fast and Precise:** Powered by JavaScript, our calculator delivers swift and precise calculations, making every computation a breeze.
 
 Ready to explore the elegance of mathematics? Launch SimpleCalculator and discover where innovation meets simplicity.
 
