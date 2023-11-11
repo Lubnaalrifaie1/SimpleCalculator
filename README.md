@@ -14,5 +14,6 @@ Ready to explore the elegance of mathematics? [Launch SimpleCalculator](u7p4l-in
 
 Feel free to customize the text further to match the tone and style you prefer. If you have specific aspects you'd like to emphasize or additional features you want to highlight, let me know!
 
-<img width="322" alt="image" src="https://github.com/Lubnaalrifaie1/SimpleCalculator/assets/126312251/cd74125e-04a5-4113-8f8e-eee382925099">
+<img width="322" alt="image" src="https://github.com/Lubnaalrifaie1/SimpleCalculator/assets/126312251/cd74125e-04a5-4113-8f8e-eee382925099"> <img width="330" alt="image" src="https://github.com/Lubnaalrifaie1/SimpleCalculator/assets/126312251/bc86afa0-1416-452a-8b6b-4ac8eeabe914">
+
 
