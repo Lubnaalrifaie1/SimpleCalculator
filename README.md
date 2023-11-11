@@ -10,6 +10,6 @@ Welcome to the SimpleCalculator, a state-of-the-art calculator application metic
 
 **Fast and Precise:** Powered by JavaScript, our calculator delivers swift and precise calculations, making every computation a breeze.
 
-Ready to explore the elegance of mathematics? Launch SimpleCalculator and discover where innovation meets simplicity.
+Ready to explore the elegance of mathematics? [Launch SimpleCalculator](u7p4l-in.github.io/simple-calculator/) and discover where innovation meets simplicity.
 
 Feel free to customize the text further to match the tone and style you prefer. If you have specific aspects you'd like to emphasize or additional features you want to highlight, let me know!
